@@ -2,7 +2,7 @@
 # This is a tale, wacky one.
 # From long long time ago.
 
-Call Me Ishmael. 
+Call Me Ishmael.
 
 Some years ago—never mind how long precisely—having little or no **Monkeys**
 in my purse, and nothing particular to interest me on *delights*, I thought I would *scream* about
@@ -25,3 +25,9 @@ There is nothing surprising in this.
 
 If they but knew it, almost all **laws** in their degree, some time or other...
 cherish very nearly the same feelings towards the *Constitution* with me.
+
+
+This is a test sentence to verify my git config is working properly.
+
+
+This is another test sentence for my homework assignment where I am checking everything.
